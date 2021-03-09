@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Machine learning in python - from development to production
+title: Serving machine learning models to the world
 author: Eligijus Bujokas 
 logo: logo.jpg
 
