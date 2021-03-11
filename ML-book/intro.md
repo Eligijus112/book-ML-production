@@ -1,8 +1,6 @@
-# Welcome dear reader
+# Welcome to the book
 
-The intended reader of this book is a machine learning engineer/data scientist/another buzz word for a smart mathematician who is trying to figure out how to deal with all the application creation steps to serve his/hers machine learning model to the world.
-
-The ideal goal for me as a writter is to have this book bookmarked by as many people as possible and the texts and codes to be copy pasted as much as possible. 
+This book is intended to bridge the gap between machine learning model creators and web developer who ussually are responsible for serving predictions of machine learning models to the world. I hope that after reading this interactive book the two groups will find many tricky definitions and frameworks not so puzzling. 
 
 # Motivation for writting 
 
@@ -26,11 +24,9 @@ To write such a pipeline in a robust manner takes years of coding and statistica
 
 This crucial process of creating an API from the outputed model is a weak point for many statisticians who devote much of their time in cleaning inputs, tunining parameters and explaining the results. I was there myself. The playfull nature of web applications' documentations for a mathematician that is used to cold and precises definitions does not help as well. 
 
-Here is where this book comes in handy - I will go through each of the pitfalls and misconceptions I went through personally when learning web development and will try to explain them from a data scientist perspective. 
+On the other hand, I had to communicate basic concepts of machine learning to respected web developers and what to expect from a machine learning model output. Coming from a mathematics background it seemed very intuitive for me that a classifier should output a probability between 0 and 1 and we should write tests for that but for a front-end wizard the well known truths of statistics are not so well known. 
 
-By talking and working with various software developers as well I found that not many of them know what are the best metrics to communicate to the business owners. Additionally, the most basic of machine learning understanding is needed in this vast world of data even for the people who spend most of theirs days fixing the frontend of an app. 
-
-Thus, I will try to explain some machine learning concepts as well. 
+Here is where this book comes in handy - I will go through each of the pitfalls and misconceptions I went through personally when learning web development and will try to explain them from a data scientist perspective. Additionaly, I will try to explain popular math concepts for web developers as well. 
 
 # Acknowledgment 
 
