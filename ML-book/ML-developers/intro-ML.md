@@ -6,9 +6,9 @@ There are many books and videos about machine learning. From the many definition
 
 This definition holds for various types of data and models. Lets quickly go through each of the main letters in the definition.
 
-# Building blocks of the definition 
+## Building blocks of the definition 
 
-## E - experience 
+### E - experience 
 
 The experience can be viewed as data. Data can be stored in various of formats: spreadsheets, python or R files, database tables. 
 
@@ -18,13 +18,13 @@ For a machine learning algorithm to work the data needs to be **tidy**{cite}`tid
 
 If a person observes if it is snowing or not (event) and measures the temperature (feature), appends a new row to a spreadsheet with the current temperature and event outcome (snow or not) then this kind of data can be called tidy. If the the current temperature is in one row, and the event of snow is logged in a separate sheet that cannot be attributed to a certain temperature, then the data is not tidy. 
 
-## T - tasks 
+### T - tasks 
 
 The task for a machine learning algorithm can be one of many - better recommendations, a more precise evaluation of a house price, better identification of spam in an email, etc. 
 
 When dealing with binary classification for example, the task is to classify whether an observation falls to one class or another. Ussualy, ML models output not 1 or 0 (meaning belonging to class "1" or "0") but a probability that an observation falls into a certain class: 
 
-## P - performance measure 
+### P - performance measure 
 
 In the previous section about tasks, I used words like "better" and "more precise". In order to not use sentiments and to be able to really prove that your results are "better" various metrics are used that are ussually a number - a probability, accuracy scores, precision and recall scores, etc. 
 
@@ -32,7 +32,7 @@ When thinking about a business problem which we want to solve using ML it is alw
 
 For example, an ML model outputs a probability whether a transaction is fraud or not. Then we can measure its precision and communicate the precision results to the higher ups. 
 
-## Putting it all together 
+### Putting it all together 
 
 Knowing the intuition behind each of the letters, we can summarize the most important part of the definition: **an ML algorithm should increase its performance when given more data**. If an algorithm shows worse and worse results with more data, then, clearly, learning is not happening. 
 

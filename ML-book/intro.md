@@ -28,6 +28,14 @@ On the other hand, I had to communicate basic concepts of machine learning to re
 
 Here is where this book comes in handy - I will go through each of the pitfalls and misconceptions I went through personally when learning web development and will try to explain them from a data scientist perspective. Additionaly, I will try to explain popular math concepts for web developers as well. 
 
-# Acknowledgment 
+# Overview of the book 
 
-I do not believe in the "self-made" concept. Each person we meet life adds some value to us, be it a pleasant or unpleasant experience. Thus, I want to thank every person I had the privilage socializing and working with. 
+The book is split into two parts:
+
+**Machine Learning for a software developer**
+
+**Software development for a machine learner** 
+
+It is essential to know some concepts of machine learning before trying to implement models in production. That is why we will start from the broad theme of machine learning. 
+
+If you feel very comfortable in one of the themes, skip ahead to the next one. If you are a master of both, please email me at elasorama@gmail.com and share your critism of the book. It is much appreciated! 
