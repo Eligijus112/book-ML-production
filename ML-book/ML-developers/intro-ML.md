@@ -31,9 +31,3 @@ In the previous section about tasks, I used words like "better" and "more precis
 When thinking about a business problem which we want to solve using ML it is always advised to come up with concrete performance measures that we want to optimize. 
 
 For example, an ML model outputs a probability whether a transaction is fraud or not. Then we can measure its precision and communicate the precision results to the higher ups. 
-
-### Putting it all together 
-
-Knowing the intuition behind each of the letters, we can summarize the most important part of the definition: **an ML algorithm should increase its performance when given more data**. If an algorithm shows worse and worse results with more data, then, clearly, learning is not happening. 
-
-In the next chapter, I will put everything together and expand each of the concepts by code examples in python. 
