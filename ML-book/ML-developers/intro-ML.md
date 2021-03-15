@@ -1,4 +1,4 @@
-# Machine learning for developers 
+# Machine learning models
 
 There are many books and videos about machine learning. From the many definitions I have read throughout my time as an machine learning (ML for short) practitioner, one stood out: 
 
