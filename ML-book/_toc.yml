@@ -3,8 +3,9 @@
 #
 - file: intro
 
-- part: Machine learning for developers
+- part: Machine learning
   chapters:
     - file: ML-developers/intro-ML
+    - file: ML-developers/ML-notation
     - file: ML-developers/ML-definitions
     - file: ML-developers/ML-notebook
